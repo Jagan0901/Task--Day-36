@@ -1,6 +1,8 @@
 # Task--Day-36
 
+Exercise - 1
 ![Screenshot (28)](https://user-images.githubusercontent.com/110884222/216767924-5218484f-4d36-4b88-80ab-63edd0b7c8a5.png)
+Exercise - 2
 ![Screenshot (29)](https://user-images.githubusercontent.com/110884222/216767934-6ad1f145-2f44-49c5-8e4f-fbf3666e64b2.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/110884222/216767945-31ce7e9b-14e8-4405-9744-0ed9b402a7d7.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/110884222/216767954-682d6c75-3542-419c-93a1-4d051d4a7ef9.png)
